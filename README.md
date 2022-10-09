@@ -1,11 +1,8 @@
-# Olá! Eu sou o Ivan leão 
+Olá! Eu sou o Ivan leão 
 
 <div align="center">
   <a href="https://github.com/ivanleao1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanleao1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- 
-
-  ##
  
 <div> 
   <a href="https://instagram.com/ivan_leaosbgo1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
